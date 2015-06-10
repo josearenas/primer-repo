@@ -1,15 +1,15 @@
 <!doctype html>
 <html>
 <head>
-<meta charset="utf-8">
-<title>Documento sin título</title>
+<meta></meta>
+<title>Documento</title>
 </head>
 
 <body>
 
 <?php 
 
-	phpinfo();
+	echo "Hola mundo";
 
 ?>
 
