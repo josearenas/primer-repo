@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Este es un archivo modificado.
+=======
+Este archivo es para TEST
+>>>>>>> test
