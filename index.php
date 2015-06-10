@@ -1,1 +1,1 @@
-<?php echo "Hola git!"; ?>
+<?php echo "Bienvenido al branch BugFix!"; ?>
